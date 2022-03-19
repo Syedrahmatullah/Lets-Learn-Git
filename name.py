@@ -28,7 +28,7 @@ class Employee:
 
     def details(self):
         print("My name is {}" .format(self.name))
-        print("IdNumber : {}".format(self.idnumber))
+        print("IdNumber is {}".format(self.idnumber))
         print("Post: {}".format(self.post))
 a =Employee("rahmat",1 , "Assistance software developer")
 a.details()
