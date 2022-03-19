@@ -33,3 +33,7 @@ class Employee:
 a =Employee("rahmat",1 , "Assistance software developer")
 a.details()
 a.details()
+
+# multiply these two numbers
+number = 20 * 3
+print('The product is: ',number)
